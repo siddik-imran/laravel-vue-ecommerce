@@ -1,0 +1,48 @@
+{
+    "options": {
+        "size": [
+            {
+                "value": "m",
+                "lable": "M"
+            },
+            {
+                "value": "s",
+                "lable": "S"
+            },
+            {
+                "value": "l",
+                "lable": "L"
+            },
+            {
+                "value": "sl",
+                "lable": "SL"
+            },
+            {
+                "value": "xl",
+                "lable": "XL"
+            }
+        ],
+        "color": [
+            {
+                "value": "#000000",
+                "lable": "Black"
+            },
+            {
+                "value": "#FFFFFF",
+                "lable": "White"
+            },
+            {
+                "value": "#FF0000",
+                "lable": "Red"
+            },
+            {
+                "value": "#4BBA7D",
+                "lable": "Green"
+            },
+            {
+                "value": "#0087D2",
+                "lable": "Blue"
+            }
+        ]
+    }
+}
